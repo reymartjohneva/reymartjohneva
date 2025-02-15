@@ -5,18 +5,16 @@
 ## 🚀 About Me
 I am a **Full Stack Developer** from the **Philippines**. Passionate about building web applications, solving problems, and continuously learning new technologies.
 
-- 🔝 I’m currently working as a **Software Engineer**.
-- 🌱 I’m learning **advanced web development and cloud technologies**.
+- 🔝 I’m currently 3rd year **BSIT student**.
+- 🌱 I’m learning **web development and cloud technologies**.
 - 💬 Ask me about **web development, databases, and backend technologies**.
 - ⚡ Fun fact: **I love exploring new frameworks and optimizing code performance**.
 - 📧 How to reach me: 
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) 
-  [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](your-facebook-url) 
-  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](your-instagram-url)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reymart-eva-202196327/) 
+  [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/reymartjohneva/) 
+  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/cokecak333/)
 
 ---
-
-## 💊 GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=reymartjohneva&style=flat-square&color=blue)
 
 ---
