@@ -1,17 +1,22 @@
 # Hi there, I'm Reymart John Eva! 👋
 
+<div align="center">
+
 ## 🚀 About Me
 I am a **Full Stack Developer** from the **Philippines**. Passionate about building web applications, solving problems, and continuously learning new technologies.
 
-- 🔭 I’m currently working as a **Software Engineer**.
+- 🔝 I’m currently working as a **Software Engineer**.
 - 🌱 I’m learning **advanced web development and cloud technologies**.
 - 💬 Ask me about **web development, databases, and backend technologies**.
 - ⚡ Fun fact: **I love exploring new frameworks and optimizing code performance**.
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- 📧 How to reach me: 
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) 
+  [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](your-facebook-url) 
+  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](your-instagram-url)
 
 ---
 
-## 📊 GitHub Stats
+## 💊 GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=reymartjohneva&style=flat-square&color=blue)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reymartjohneva&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -35,7 +40,7 @@ I am a **Full Stack Developer** from the **Philippines**. Passionate about build
 
 ---
 
-## 🎬 GIFs
+## 🎮 GIFs
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -46,4 +51,6 @@ I am a **Full Stack Developer** from the **Philippines**. Passionate about build
 
 ---
 
-⭐️ *Feel free to connect with me and explore my projects!* 🚀
+🌟 *Feel free to connect with me and explore my projects!* 🚀
+
+</div>
