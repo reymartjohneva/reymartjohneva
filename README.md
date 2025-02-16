@@ -6,7 +6,7 @@
 I am a **Full Stack Developer** from the **Philippines**. Passionate about building web applications, solving problems, and continuously learning new technologies.
 
 - 🔝 I’m currently 3rd year **BSIT student**.
-- 🌱 I’m learning **web development and cloud technologies**.
+- 🌱 I’m learning **web development**.
 - 💬 Ask me about **web development, databases, and backend technologies**.
 - ⚡ Fun fact: **I love exploring new frameworks and optimizing code performance**.
 - 📧 How to reach me: 
