@@ -5,17 +5,23 @@
 ## 🚀 About Me
 I am a **Full Stack Developer** from the **Philippines**. Passionate about building web applications, solving problems, and continuously learning new technologies.
 
-- 🔝 I’m currently 3rd year **BSIT student**.
+- 🔝 I’m currently a 3rd year **BSIT student**.
 - 🌱 I’m learning **web development**.
 - 💬 Ask me about **web development, databases, and backend technologies**.
 - ⚡ Fun fact: **I love exploring new frameworks and optimizing code performance**.
-- 📧 How to reach me: 
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reymart-eva-202196327/) 
-  [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/reymartjohneva/) 
-  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/cokecak333/)
+- 📧 How to reach me:  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reymart-eva-202196327/)  
+  [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/reymartjohneva/)  
+  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/cokecak333/)  
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=reymartjohneva&style=flat-square&color=blue)
+
+---
+---
+
+## 🔥 Most Used Languages in My Projects
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reymartjohneva&layout=compact&theme=radical)
 
 ---
 
@@ -30,9 +36,9 @@ I am a **Full Stack Developer** from the **Philippines**. Passionate about build
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
 </div>
 
----
 
 ## 🎮
 <div align="center">
