@@ -3,7 +3,7 @@
 <div align="center">
 
 ## 🚀 About Me
-I am a **Full Stack Developer** from the **Philippines**. Passionate about building web applications, solving problems, and continuously learning new technologies.
+I am a **Junior Web Developer** from the **Philippines**. Passionate about building web applications, solving problems, and continuously learning new technologies.
 
 - 🔝 I’m currently a 3rd year **BSIT student**.
 - 🌱 I’m learning **web development**.
