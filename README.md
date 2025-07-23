@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- 🔝 I’m currently a 3rd year **BSIT student**.
+- 🔝 I’m currently a 4th year **BSIT student**.
 - 🌱 I’m learning **web development**.
 - 💬 Ask me about **web development, databases, and backend technologies**.
 - ⚡ Fun fact: **I love exploring new frameworks and optimizing code performance**.
