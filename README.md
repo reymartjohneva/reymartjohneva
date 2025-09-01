@@ -151,12 +151,44 @@
 
 <div align="center">
   
-  <!-- Snake eating commits -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reymartjohneva/reymartjohneva/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reymartjohneva/reymartjohneva/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/reymartjohneva/reymartjohneva/output/github-contribution-grid-snake.svg">
-  </picture>
+  <!-- Fun coding elements -->
+  <div>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  </div>
+  
+  <br/>
+  
+  <!-- Fun facts about coding -->
+  <div align="center">
+    <h3>🎲 Random Fun Facts About Me</h3>
+    <table>
+      <tr>
+        <td>☕</td>
+        <td><b>Coffee consumed while coding:</b></td>
+        <td>∞ cups</td>
+      </tr>
+      <tr>
+        <td>🐛</td>
+        <td><b>Bugs fixed with console.log():</b></td>
+        <td>Too many to count</td>
+      </tr>
+      <tr>
+        <td>🎵</td>
+        <td><b>Favorite coding playlist:</b></td>
+        <td>Lo-fi beats & synthwave</td>
+      </tr>
+      <tr>
+        <td>⌚</td>
+        <td><b>Most productive time:</b></td>
+        <td>Late night coding sessions</td>
+      </tr>
+      <tr>
+        <td>🎯</td>
+        <td><b>Debug method of choice:</b></td>
+        <td>Rubber duck debugging 🦆</td>
+      </tr>
+    </table>
+  </div>
   
   <br/>
   
