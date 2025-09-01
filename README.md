@@ -1,57 +1,173 @@
-# Hi there, I'm Reymart John Eva! 👋
+# Hey there! I'm Reymart John Eva 👨‍💻
 
 <div align="center">
+  
+  <!-- Animated typing effect -->
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+Training;BSIT+Student+%7C+Tech+Enthusiast;Building+Amazing+Web+%26+Mobile+Apps;Always+Learning+New+Technologies!)](https://git.io/typing-svg)
+  
+  <!-- Profile counter -->
+  ![Profile Views](https://komarev.com/ghpvc/?username=reymartjohneva&style=for-the-badge&color=36BCF7)
+  [![GitHub followers](https://img.shields.io/github/followers/reymartjohneva?style=for-the-badge&color=36BCF7)](https://github.com/reymartjohneva)
+
+</div>
+
+---
 
 ## 🚀 About Me
 
-- 🔝 I’m currently a 4th year **BSIT student**.
-- 🌱 I’m learning **web and mobile development**.
-- 💬 Ask me about **web development, databases, and backend technologies**.
-- ⚡ Fun fact: **I love exploring new frameworks and optimizing code performance**.
-- 📧 How to reach me:  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reymart-eva-202196327/)  
-  [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/reymartjohneva/)  
-  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/cokecak333/)  
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
----
-![Profile Views](https://komarev.com/ghpvc/?username=reymartjohneva&style=flat-square&color=blue)
+- 🎓 **4th Year BSIT Student** passionate about technology
+- 🌱 Currently diving deep into **Full-Stack Web & Mobile Development**
+- 💻 Love building **scalable applications** and **clean code**
+- 🔍 Always exploring **new frameworks** and **optimization techniques**
+- 🎯 Goal: To become a **proficient full-stack developer**
+- ⚡ Fun fact: **I debug with console.log more than I care to admit! 😅**
 
----
----
-
-## 🔥 Most Used Languages in My Projects
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reymartjohneva&layout=compact&theme=radical)
+<br clear="right"/>
 
 ---
 
-## 🛠️ Languages and Tools
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-</div>
+## 🌐 Connect With Me
 
-
-
-## 🎮
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reymart-eva-202196327/)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/reymartjohneva/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cokecak333/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 ---
 
-🌟 *Feel free to connect with me and explore my projects!* 🚀
+## 🛠️ Tech Stack & Tools
 
+<div align="center">
+
+### 💻 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend & Database
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reymartjohneva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reymartjohneva&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=reymartjohneva&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=reymartjohneva&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 💼 What I'm Working On
+
+```javascript
+const reymartEva = {
+    currentFocus: "Full-Stack Development",
+    learning: ["Advanced Laravel", "Vue.js 3", "Mobile App Development"],
+    askMeAbout: ["Web Development", "Database Design", "Backend Architecture"],
+    technologies: {
+        frontend: ["HTML5", "CSS3", "JavaScript", "Vue.js", "Bootstrap", "Tailwind"],
+        backend: ["PHP", "Laravel", "Python"],
+        mobile: ["Flutter", "Dart"],
+        databases: ["PostgreSQL", "MySQL"],
+        tools: ["Git", "VS Code", "Postman"]
+    },
+    currentGoal: "Building scalable web applications 🚀"
+};
+```
+
+---
+
+## 🎮 Fun Zone
+
+<div align="center">
+  
+  <!-- Snake eating commits -->
+  ![Snake animation](https://raw.githubusercontent.com/reymartjohneva/reymartjohneva/output/github-contribution-grid-snake-dark.svg)
+  
+  <br/>
+  
+  <!-- Coding GIF -->
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  
+</div>
+
+---
+
+## 📈 Activity Graph
+
+[![Reymart's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reymartjohneva&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🎯 Current Goals
+
+- 🔭 Working on **personal portfolio website**
+- 🌱 Learning **advanced Laravel patterns**
+- 👯 Looking to collaborate on **open source projects**
+- 💬 Ask me about **web development best practices**
+- 📫 Reach out for **project collaborations**
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+### 🌟 Show some ❤️ by starring some of my repositories! 🌟
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+</div>
+
+---
+
+<div align="center">
+  
+  **✨ Made with ❤️ by Reymart John Eva ✨**
+  
 </div>
