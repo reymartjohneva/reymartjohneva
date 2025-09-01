@@ -101,21 +101,49 @@
 
 ## 💼 What I'm Working On
 
-```javascript
-const reymartEva = {
-    currentFocus: "Full-Stack Development",
-    learning: ["Advanced Laravel", "Vue.js 3", "Mobile App Development"],
-    askMeAbout: ["Web Development", "Database Design", "Backend Architecture"],
-    technologies: {
-        frontend: ["HTML5", "CSS3", "JavaScript", "Vue.js", "Bootstrap", "Tailwind"],
-        backend: ["PHP", "Laravel", "Python"],
-        mobile: ["Flutter", "Dart"],
-        databases: ["PostgreSQL", "MySQL"],
-        tools: ["Git", "VS Code", "Postman"]
-    },
-    currentGoal: "Building scalable web applications 🚀"
-};
-```
+<div align="center">
+
+### 🎯 Current Focus
+**Full-Stack Development** with emphasis on modern web technologies
+
+### 📚 Currently Learning
+- **Advanced Laravel** - Deep diving into elegant PHP framework
+- **Vue.js 3** - Mastering the progressive JavaScript framework  
+- **Mobile App Development** - Building cross-platform applications
+
+### 💡 Ask Me About
+- 🌐 **Web Development** - Frontend & Backend best practices
+- 🗄️ **Database Design** - Efficient data architecture
+- ⚙️ **Backend Architecture** - Scalable server-side solutions
+
+### 🛠️ My Technology Arsenal
+
+<details>
+<summary><b>👆 Click to expand my tech stack</b></summary>
+
+**Frontend Technologies:**
+- HTML5, CSS3, JavaScript
+- Vue.js, Bootstrap, Tailwind CSS
+
+**Backend & Server:**
+- PHP, Laravel, Python
+- RESTful API Development
+
+**Mobile Development:**
+- Flutter, Dart
+
+**Databases:**
+- PostgreSQL, MySQL
+
+**Tools & Workflow:**
+- Git, GitHub, VS Code, Postman
+
+</details>
+
+### 🚀 Current Goal
+> Building scalable web applications that make a difference! 
+
+</div>
 
 ---
 
@@ -124,7 +152,11 @@ const reymartEva = {
 <div align="center">
   
   <!-- Snake eating commits -->
-  ![Snake animation](https://raw.githubusercontent.com/reymartjohneva/reymartjohneva/output/github-contribution-grid-snake-dark.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reymartjohneva/reymartjohneva/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reymartjohneva/reymartjohneva/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/reymartjohneva/reymartjohneva/output/github-contribution-grid-snake.svg">
+  </picture>
   
   <br/>
   
