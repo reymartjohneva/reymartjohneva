@@ -41,6 +41,16 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=reymartjohneva&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -89,16 +99,6 @@
 <div align="center">
   
   [![GitHub Streak](https://streak-stats.demolab.com/?user=reymartjohneva&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/graph?username=reymartjohneva&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
