@@ -49,6 +49,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -58,10 +59,14 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 📱 Mobile Development
+### 📱 Mobile & Desktop Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -84,16 +89,6 @@
 <div align="center">
   
   [![GitHub Streak](https://streak-stats.demolab.com/?user=reymartjohneva&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=reymartjohneva&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -123,17 +118,19 @@
 
 **Frontend Technologies:**
 - HTML5, CSS3, JavaScript
-- Vue.js, Bootstrap, Tailwind CSS
+- React, Vue.js, Bootstrap, Tailwind CSS
 
 **Backend & Server:**
 - PHP, Laravel, Python
 - RESTful API Development
+- Firebase, Supabase
 
-**Mobile Development:**
-- Flutter, Dart
+**Mobile & Desktop Development:**
+- Flutter, Dart, Android
+- Electron for cross-platform apps
 
-**Databases:**
-- PostgreSQL, MySQL
+**Databases & Cloud:**
+- PostgreSQL, MySQL, Firebase, Supabase
 
 **Tools & Workflow:**
 - Git, GitHub, VS Code, Postman
@@ -191,9 +188,6 @@
   </div>
   
   <br/>
-  
-  <!-- Coding GIF -->
- 
   
 </div>
 
