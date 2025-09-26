@@ -38,28 +38,8 @@
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reymarteva2@gmail.com)
 
 </div>
-
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=reymartjohneva&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-### 🎖️ Current Achievements
-<div align="center">
-  
-| 🌈 **MultiLanguage** | 🔄 **PullRequest** | 📊 **Commits** | ⭐ **Experience** | 📁 **Repositories** | ⭐ **Stars** |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Rainbow Lang User | Ultra Puller | Hyper Committer | Intermediate Dev | Middle Repo Creator | First Star |
-| *12pt* | *128pt* | *496pt* | *11pt* | *13pt* | *5pt* |
-
-</div>
-
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -112,6 +92,14 @@
 
 </div>
 
+---
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=reymartjohneva&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 ---
 
 ## 💼 What I'm Working On
