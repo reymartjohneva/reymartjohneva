@@ -98,7 +98,7 @@
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=reymartjohneva&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=reymartjohneva&theme=tokyonight&row=1&column=7&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,Stars,Commits,Repositories,PullRequest,Issues,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
