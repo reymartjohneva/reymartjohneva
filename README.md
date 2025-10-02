@@ -77,24 +77,32 @@
 
 ---
 
-<h2 align="center">📊 Stats 📊</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reymartjohneva&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="Reymart John Eva GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=reymartjohneva&theme=material-palenight&hide_border=false" alt="Reymart John Eva Streak Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reymartjohneva&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Reymart John Eva Top Languages" />
-</p>
-
----
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=reymartjohneva&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reymartjohneva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reymartjohneva&layout=compact&langs_count=8&theme=tokyonight"/>
+
 </div>
 
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=reymartjohneva&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+## 🏆 GitHub Trophies
+
+
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=reymartjohneva&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
 
 ## 💼 What I'm Working On
 
