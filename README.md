@@ -20,17 +20,22 @@
 
 ## 🙋‍♂️ About Me
 
-```typescript
-const reymart = {
-    status: "4th Year BSIT Student 🎓",
-    currentFocus: "Full-Stack Web & Mobile Development 🌐",
-    passion: "Building scalable applications with clean architecture 💻",
-    learning: ["Advanced Laravel", "Vue.js 3", "Mobile App Development"],
-    goal: "To become a proficient full-stack developer 🎯",
-    funFact: "I debug with console.log more than I care to admit! 😅🐛",
-    motto: "Code is poetry written in logic 📝✨"
-};
-```
+🎓 **4th Year BSIT Student** passionate about technology and innovation
+
+🌐 **Currently Focused On:** Full-Stack Web & Mobile Development
+
+💻 **Passion:** Building scalable applications with clean architecture
+
+📚 **Currently Learning:**
+- Advanced Laravel patterns
+- Vue.js 3 framework
+- Mobile App Development
+
+🎯 **Goal:** To become a proficient full-stack developer
+
+😅 **Fun Fact:** I debug with console.log more than I care to admit!
+
+📝 **Motto:** "Code is poetry written in logic"
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
