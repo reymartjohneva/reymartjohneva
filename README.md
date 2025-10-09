@@ -37,9 +37,13 @@
 
 📝 **Motto:** "Code is poetry written in logic"
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+---
 
-### 🔥 What I'm Up To
+## 🔥 What I'm Up To
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+</div>
 
 - 🔭 **Currently Building:** Personal portfolio website
 - 🌱 **Currently Learning:** Advanced Laravel patterns & Vue.js 3
